@@ -7,7 +7,7 @@ int main()
 	{
 		putchar(w);
 	}
-	for(y = 65; y < 71; y++)
+	for(y = 97; y < 123; y++)
 	{
 		putchar(y);
 	}
